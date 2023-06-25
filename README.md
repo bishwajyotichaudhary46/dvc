@@ -20,3 +20,9 @@ Intialize DVC
 ```
 dvc init
 ```
+```
+dvc repro
+```
+```
+dvc dag
+```
